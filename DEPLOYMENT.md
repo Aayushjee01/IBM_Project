@@ -27,7 +27,7 @@ Streamlit applications require:
    git commit -m "Initial commit"
    git branch -M main
    git remote add origin <your-github-repo-url>
-   git push -u origin main
+
    ```
 
 2. **Deploy on Streamlit Cloud**
